@@ -19,7 +19,7 @@ defusedxml==0.7.1
 deprecation==2.1.0
 et_xmlfile==2.0.0
 etelemetry==0.3.1
-filelock==3.25.0
+filelock==4.2.1
 fire==0.7.1
 fitz==0.0.1.dev2
 fonttools==4.62.1
